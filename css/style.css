@@ -1,0 +1,39 @@
+body {
+    background-color: #efeee7;
+    font: Georgia,"Times Mew Roman",Times,serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+}
+
+
+}
+#main-bio, #contact-info, #bio-image {
+    float: left;
+}
+
+#bio-image {
+    width: 200px;
+    margin: 5;
+}
+
+#main-bio {
+    width: 70%;
+}
+
+#contact-info {
+    width: 30%;
+}
+
+a {
+    color: #d21034;
+}
